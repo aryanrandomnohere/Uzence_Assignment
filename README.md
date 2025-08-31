@@ -48,7 +48,7 @@ component/
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/aryanrandomnohere/Uzence_Assignment.git
     cd component
     ```
 2.  Install the dependencies:
